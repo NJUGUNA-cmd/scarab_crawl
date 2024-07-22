@@ -1,0 +1,5 @@
+17 July 2024, 19:04:08: Started watching external directory 'C:/Users/IAN/Desktop/scarablabs/Scarab_Labs_Web/scarablabs/scarab_vue/src/assets/projects'
+17 July 2024, 19:04:20: Started watching external directory 'C:/Users/IAN/Desktop'
+17 July 2024, 19:04:36: Started watching external directory 'C:/Users/IAN/Desktop/scarablabs'
+17 July 2024, 19:04:48: Started watching external directory 'C:/Users/IAN/Desktop/scarablabs/Scarab_Labs_Web/scarablabs'
+17 July 2024, 19:05:10: Started watching external directory 'C:/Users/IAN/Desktop/scarablabs/Scarab_Labs_Web/scarablabs/scarab_vue/src'

@@ -1,0 +1,3 @@
+17 July 2024, 19:04:20: Could not open file "C:/Users/IAN/Desktop/zed": code 5, Access is denied.
+17 July 2024, 19:04:36: Could not open file "C:/Users/IAN/Desktop/scarablabs/villagoV1.O": code 5, Access is denied.
+17 July 2024, 19:04:48: Could not open file "C:/Users/IAN/Desktop/scarablabs/Scarab_Labs_Web/scarablabs/scarab_vue": code 5, Access is denied.
